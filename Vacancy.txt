@@ -1,0 +1,7 @@
+Chess: 4
+Dancing: 2
+Gaming: 0
+Running: 3
+Swimming: 3
+Tennis: 4
+Special: G
